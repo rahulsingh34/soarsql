@@ -1,2 +1,2 @@
-# soarsql
-Repository for soarSQL releases
+# soarSQL
+This repository contains only releases for soarSQL. 
